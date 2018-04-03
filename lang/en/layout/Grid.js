@@ -34,6 +34,11 @@ export default {
       desc: 'The `v-container` can be used for a center focused page, or given the `fluid` prop to extend its full width. `v-layout` is used for separating sections and contains the `v-flex`. The structure of your layout will be as follows, **v-container** &raquo; **v-layout** &raquo; **v-flex**. Each part of the grid chain is a flex-box element. The final, `v-flex`, automatically sets its children to have <kbd>flex: 1 1 auto</kbd>.',
       uninverted: true
     },
+    alignmentPlayground: {
+      header: 'Alignment Playground',
+      desc: 'Use this tool to help you decide what alignments you need in your application.',
+      uninverted: true
+    },
     offset: {
       header: 'Offset',
       desc: 'Offsets are useful for compensating for elements that may not be visible yet, or to control the position of content. Just as with breakpoints, you can set an offset for any available sizes. This allows you to fine tune your application layout precisely to your needs.',
