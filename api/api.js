@@ -2808,60 +2808,6 @@ module.exports = {
         "source": null
       },
       {
-        "name": "alignBaseline",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignCenter",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentCenter",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentEnd",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentSpaceAround",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentSpaceBetween",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentStart",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignEnd",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignStart",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
         "name": "d-{type}",
         "type": "Boolean",
         "default": "false",
@@ -2873,48 +2819,6 @@ module.exports = {
         "default": "false",
         "source": null
       },
-      {
-        "name": "justifyCenter",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifyEnd",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifySpaceAround",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifySpaceBetween",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifyStart",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "reverse",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "wrap",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      }
     ],
     "mixins": []
   },
@@ -2951,60 +2855,6 @@ module.exports = {
         "source": null
       },
       {
-        "name": "alignBaseline",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignCenter",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentCenter",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentEnd",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentSpaceAround",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentSpaceBetween",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignContentStart",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignEnd",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "alignStart",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
         "name": "d-{type}",
         "type": "Boolean",
         "default": "false",
@@ -3016,48 +2866,6 @@ module.exports = {
         "default": "false",
         "source": null
       },
-      {
-        "name": "justifyCenter",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifyEnd",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifySpaceAround",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifySpaceBetween",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "justifyStart",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "reverse",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      },
-      {
-        "name": "wrap",
-        "type": "Boolean",
-        "default": "false",
-        "source": null
-      }
     ],
     "mixins": []
   },
